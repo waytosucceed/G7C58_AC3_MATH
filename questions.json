@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Exponential form of <br>a × a × b × b × b x c is ______.",
+      "options": [
+          "a<sup>2</sup>b<sup>2</sup>c",
+          "ab<sup>3</sup>c",
+          "a<sup>2</sup>b<sup>3</sup>c",
+          "a<sup>2</sup>bc"
+      ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "The cofficient of z in -25xy<sup>2</sup>z is ________.",
+      "options": [
+          "25y<sup>2</sup>x",
+          "-25y<sup>2</sup>x",
+          "-25xyz",
+          "25xyz"
+      ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "The numerical coefficient of <i>pqr</i> is ________.",
+      "options": [
+          "pq",
+          "qr",
+          "pr",
+          "1"
+      ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The constant term in <br><img src='./assests/images/1.png'width='50%'>'",
+        "options": [
+          "24",
+          "7q",
+          "<sup>6</sup>&frasl;<sub>11</sub>",
+          "none"
+      ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "The number of terms in the algebraic expression <br>ax<sup>3</sup> + bx<sup>2</sup> + cx + d is ________.",
+      "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+      ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Write the quotient of x and y added to the product of x and y in algebraic form.",
+      "options": [
+            "./assests/optionImg/35.jpg",
+            "./assests/optionImg/36.jpg",
+            "./assests/optionImg/37.jpg",
+            "./assests/optionImg/38.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Classify the following algebraic expressions:<br>7x + 2y -3z is a _______.",
+        "options": [
+            "Monomial",
+            "Binomial",
+            "Trinomial",
+            "None"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8",
+        "question": "The like terms in the expession <br>2x<sup>2</sup> + y<sup>2</sup> - 3x<sup>2</sup> - 7z<sup>2</sup>x are _________.",
+        "options": [
+            "2x<sup>2</sup>, -3x<sup>2</sup>",
+            "2x<sup>2</sup>, 7x",
+            "-3x<sup>2</sup>, 7x",
+            "y<sup>2</sup>, z<sup>2</sup>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "If a = 2, b = 3, then the value of <br>6a - 3b is ________.",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "If p = 1, q = 2, r = 3 then the value of <br>p<sup>2</sup> + q<sup>2</sup> + r<sup>2</sup> is ________.",
+        "options": [
+            "8",
+            "26",
+            "14",
+            "None"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Which of these is a variable ?",
+        "options": [
+            "x",
+            "y",
+            "z",
+            "all of these"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Which of the following is an algebraic expression ?",
+        "options": [
+            "3 × 8 - 7",
+            "8 ÷ 2 + 6",
+            "2x + 8",
+            "None"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Amit secured 20 marks more than Rita. If Rita secured 'x' marks, then the marks secured by Amit equal to _______.",
+        "options": [
+            "x - 20",
+            "20 - x",
+            "x + 20",
+            "x ÷ 20"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14",
+        "question": "One book weighs 350g and one notebook weighs 250g. The weight of x books and y notebooks is ______.",
+        "options": [
+            "350x + 250y",
+            "350y + 250 + x",
+            "350 + y + x",
+            "600 + x + y"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15",
+        "question": "The algebraic expression for '5 less than the quotient of p and q' is ___________.",
+        "options": [
+            "./assests/optionImg/5.jpg",
+            "./assests/optionImg/6.jpg",
+            "./assests/optionImg/7.jpg",
+            "./assests/optionImg/8.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16",
+        "question": "Use the systematic method to solve the following equation:<br> 0 = 16 + (m - 6) 4",
+        "options": [
+            "1",
+            "2",
+            "12",
+            "15"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Use the systematic method to solve the following equation:<br> -4(2 - x) = 12",
+        "options": [
+            "5",
+            "15",
+            "-5",
+            "-15"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q18",
+        "question": "A number divided by 4 and increased by 6 gives 10. Find the number",
+        "options": [
+            "12",
+            "26",
+            "16",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19",
+        "question": "92 exceeds another number by 32. What is the other number?",
+        "options": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20",
+        "question": "The lenght of a rectangle is 2 cm more then its breadth, and its perimeter is 28 cm. Find the lenght and breadth of the rectangle.",
+        "options": [
+            "Length = 6cm, Breadth = 4cm",
+            "Length = 16cm, Breadth = 8cm",
+            "Length = 6cm, Breadth = 8cm",
+            "Length = 8cm, Breadth = 6cm"
+        ],
+        "correct": 3
+    }
+]
